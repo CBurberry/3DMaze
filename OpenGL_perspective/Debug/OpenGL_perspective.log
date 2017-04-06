@@ -1,0 +1,25 @@
+﻿  other.cpp
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\structs.h(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\structs.h(88): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\structs.h(89): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\other.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\other.cpp(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\other.cpp(141): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\other.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\other.cpp(153): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\other.cpp(163): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\other.cpp(164): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\structs.h(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\structs.h(88): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\structs.h(89): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\draw_text.h(30): warning C4244: 'argument': conversion from 'const int' to 'GLfloat', possible loss of data
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\main.cpp(56): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\main.cpp(63): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\main.cpp(64): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\main.cpp(69): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\christian burberry\documents\visual studio 2015\projects\opengl_maze\opengl_perspective\main.cpp(70): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Generating Code...
+  OpenGL_perspective.vcxproj -> C:\Users\Christian Burberry\documents\visual studio 2015\Projects\OpenGL_Maze\Debug\OpenGL_perspective.exe
+  OpenGL_perspective.vcxproj -> C:\Users\Christian Burberry\documents\visual studio 2015\Projects\OpenGL_Maze\Debug\OpenGL_perspective.pdb (Partial PDB)
